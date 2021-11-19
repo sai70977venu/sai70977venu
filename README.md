@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-SaiVenu-yellow)](https://stackoverflow.com/users/17447303/aman-singh)
 
 I'm
-Full Stack Solution Architect.
+Backend Developer.
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development ( HTML5, CSS3, Javascript), Server Administrator(AWS),database(Mysql).
 
 
