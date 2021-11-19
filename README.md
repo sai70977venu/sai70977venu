@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-SaiVenu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saivenu--01629954/)](https://www.linkedin.com/in/aman-singh-30553320a/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-SaiVenu-yellow)](https://stackoverflow.com/users/17447303/aman-singh)
+[![Linkedin Badge](https://img.shields.io/badge/-SaiVenu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saivenu--01629954/)](https://www.linkedin.com/in/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-SaiVenu-yellow)](https://stackoverflow.com/)
 
 I'm
 Backend Developer.
