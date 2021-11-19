@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aman-singh-30553320a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saivenu--01629954/)](https://www.linkedin.com/in/aman-singh-30553320a/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AmanSingh-yellow)](https://stackoverflow.com/users/17447303/aman-singh)
 
 I'm
@@ -8,12 +8,12 @@ Full Stack Solution Architect.
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development ( HTML5, CSS3, Javascript), Server Administrator(AWS),database(Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/amansingh162017/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sai70977venu/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amansingh162017&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sai70977venu&column=7"/>
   </a>
 </div>
 
